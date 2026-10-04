@@ -1,5 +1,5 @@
-## Hi there 👋
-
+Hi, I'm Alex. 
+I'm a data science student with a biotech laboratory background, interested in the use of programming and data analysis in working with real-world data.
 <!--
 **ii-a-myers-ii/ii-a-myers-ii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
